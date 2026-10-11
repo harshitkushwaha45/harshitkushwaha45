@@ -7,7 +7,6 @@
   <a href="https://github.com/harshitkushwaha45"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://leetcode.com/u/harshit_4507/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="https://HarshitKushwaha.online"><img src="https://img.shields.io/badge/PORTFOLIO-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:mauryaharshit@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
